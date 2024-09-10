@@ -19,7 +19,9 @@ Este repositório contém implementações de projetos e desafios do livro **"Bl
 
 ## Introdução
 
-Este repositório é uma coleção de scripts e ferramentas desenvolvidas com base no conteúdo do livro "Black Hat Python - 2ª Edição". Ele aborda a criação de ferramentas de segurança e scripts de automação que exploram vulnerabilidades em sistemas e redes.
+Este repositório é uma coleção de scripts e ferramentas desenvolvidas com base no conteúdo do livro "Black Hat Python - 2ª Edição". 
+
+Ele aborda a criação de ferramentas de segurança e scripts de automação que exploram vulnerabilidades em sistemas e redes.
 
 **Aviso Legal:** Os scripts e ferramentas neste repositório são destinados a fins educacionais e de pesquisa. O uso indevido pode violar leis e regulamentos locais. Utilize-os com responsabilidade e somente em redes e sistemas que você tenha permissão para testar.
 
